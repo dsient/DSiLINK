@@ -1,2 +1,3 @@
 # DSiLINK
-GOOD THING!
+DSiLink is currently under construction!
+Check back later ;)
